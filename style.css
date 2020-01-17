@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: black;
+  background: #2c001e; /* old: black; */
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
@@ -68,7 +68,7 @@ body {
 }
 
 #mainbox a:link {
-  color: #b8860b;
+  color: ; old #b8860b;
   text-decoration: none;
   font-weight: bold;
 }
