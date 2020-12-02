@@ -4,7 +4,7 @@ html {
 
 body {
   /*background: #2c001e;*/
-  background: #2a1114;
+  background: #2a0104;
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
@@ -42,7 +42,7 @@ body {
 
 #navbox {
   /*color: #2c001e;*/
-  background: #2a1114;
+  background: #2a0104;
   width: 40px;
   text-align: left;
   min-height: 350px;
@@ -73,7 +73,7 @@ body {
 
 #mainbox {
   /*color: #2c001e;*/
-  background: #2a1114;
+  background: #2a0104;
   min-height: 550px;
   text-align: left;
   margin-left: 180px;
@@ -133,7 +133,7 @@ footer {
     padding: 1em;
     color: white;
     font-size: 7pt;
-    background-color: #2a1114;
+    background-color: #2a0104;
     /*background-color: black;*/
     clear: left;
     text-align: right;
