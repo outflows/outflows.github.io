@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background: #2c001e;
-  /*background: black;*/
+  /*background: #2c001e;*/
+  background: #2a1114;
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
@@ -41,8 +41,8 @@ body {
 }
 
 #navbox {
-  color: #2c001e;
-  /*color: black;*/
+  /*color: #2c001e;*/
+  background: #2a1114;
   width: 40px;
   text-align: left;
   min-height: 350px;
@@ -72,8 +72,8 @@ body {
 }
 
 #mainbox {
-  color: #2c001e;
-  /*color: black;*/
+  /*color: #2c001e;*/
+  background: #2a1114;
   min-height: 550px;
   text-align: left;
   margin-left: 180px;
@@ -82,15 +82,15 @@ body {
 }
 
 #mainbox a:link {
-  color: #b8860b;
-  /*color: #ffd700;*/
+  /*color: #b8860b;*/
+  color: #f3e5ab;
   text-decoration: none;
   font-weight: bold;
 }
 
 #mainbox a:visited {
-  color: #b8860b;
-  /*color: #ffd700;*/
+  /*color: #b8860b;*/
+  color: #f3e5ab;
   text-decoration: none;
   font-weight: bold;
 }
@@ -138,3 +138,8 @@ footer {
     clear: left;
     text-align: right;
 }
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
