@@ -4,22 +4,12 @@ html {
 
 body {
   background: #2a0011; /*wine*/
+  /*background: #0f1520;*/ /*navy*/
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
   width: 800px;
 }
-
-/*
-#2c001e     (44,0,30)
-#b8860b     (184,134,11)
-
-#2b0521 	(43,5,33)
-#3e0930 	(62,9,48)
-#4f123e 	(79,18,62)
-#601a4c 	(96,26,76)
-#6b2356 	(107,35,86)
-*/
 
 #header {
   color: white;
@@ -41,6 +31,7 @@ body {
 
 #navbox {
   background: #2a0011; /*wine*/
+  /*background: #0f1520;*/ /*navy*/
   width: 40px;
   text-align: left;
   min-height: 350px;
@@ -65,12 +56,13 @@ body {
 
 .unselected {
   font-weight: normal;
-  color: #8c8c8c;
+  color: #8c8c8c; /*grey*/
   text-decoration: none;
 }
 
 #mainbox {
   background: #2a0011; /*wine*/
+  /*background: #0f1520;*/ /*navy*/
   min-height: 550px;
   text-align: left;
   margin-left: 180px;
@@ -79,13 +71,13 @@ body {
 }
 
 #mainbox a:link {
-  color: #f3e5ab;
+  color: #eeeaaa; /*champagne*/
   text-decoration: none;
   font-weight: bold;
 }
 
 #mainbox a:visited {
-  color: #f3e5ab;
+  color: #eeeaaa; /*champagne*/
   text-decoration: none;
   font-weight: bold;
 }
@@ -129,6 +121,7 @@ footer {
     color: white;
     font-size: 7pt;
     background-color: #2a0011; /*wine*/
+    /*background-color: #0f1520;*/ /*navy*/
     clear: left;
     text-align: right;
 }
