@@ -3,9 +3,7 @@ html {
 }
 
 body {
-  /*background: #2c001e;*/
-  background: #2a0104;
-  /*background: #0c0425;*/
+  background: #2a0011; /*wine*/
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
@@ -42,9 +40,7 @@ body {
 }
 
 #navbox {
-  /*color: #2c001e;*/
-  background: #2a0104;
-  /*background: #0c0425;*/
+  background: #2a0011; /*wine*/
   width: 40px;
   text-align: left;
   min-height: 350px;
@@ -74,9 +70,7 @@ body {
 }
 
 #mainbox {
-  /*color: #2c001e;*/
-  background: #2a0104;
-  /*background: #0c0425;*/
+  background: #2a0011; /*wine*/
   min-height: 550px;
   text-align: left;
   margin-left: 180px;
@@ -85,14 +79,12 @@ body {
 }
 
 #mainbox a:link {
-  /*color: #b8860b;*/
   color: #f3e5ab;
   text-decoration: none;
   font-weight: bold;
 }
 
 #mainbox a:visited {
-  /*color: #b8860b;*/
   color: #f3e5ab;
   text-decoration: none;
   font-weight: bold;
@@ -136,9 +128,7 @@ footer {
     padding: 1em;
     color: white;
     font-size: 7pt;
-    /*background-color: #0c0425;*/
-    background-color: #2a0104;
-    /*background-color: black;*/
+    background-color: #2a0011; /*wine*/
     clear: left;
     text-align: right;
 }
