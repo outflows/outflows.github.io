@@ -3,8 +3,8 @@ html {
 }
 
 body {
-  background: #2a0011; /*wine*/
-  /*background: #0f1520;*/ /*navy*/
+  /*background: #2a0011;*/ /*wine*/
+  background: #0f1520; /*navy*/
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
@@ -30,8 +30,8 @@ body {
 }
 
 #navbox {
-  background: #2a0011; /*wine*/
-  /*background: #0f1520;*/ /*navy*/
+  /*background: #2a0011;*/ /*wine*/
+  background: #0f1520; /*navy*/
   width: 40px;
   text-align: left;
   min-height: 350px;
@@ -61,8 +61,8 @@ body {
 }
 
 #mainbox {
-  background: #2a0011; /*wine*/
-  /*background: #0f1520;*/ /*navy*/
+  /*background: #2a0011;*/ /*wine*/
+  background: #0f1520; /*navy*/
   min-height: 550px;
   text-align: left;
   margin-left: 180px;
