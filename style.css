@@ -1,10 +1,11 @@
 html {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif	
+  font-family: 'Trebuchet MS', Helvetica, sans-serif
 }
 
 body {
   /*background: #2a0011;*/ /*wine*/
-  background: #0f1520; /*navy*/
+  /*background: #0f1520;*/ /*navy*/
+  background-color: #5a0e12; /*darkburgundy*/
   padding-top: 20px;
   padding-bottom: 20px;
   margin: 0px auto;
@@ -31,7 +32,8 @@ body {
 
 #navbox {
   /*background: #2a0011;*/ /*wine*/
-  background: #0f1520; /*navy*/
+  /*background: #0f1520;*/ /*navy*/
+  background-color: #5a0e12; /*darkburgundy*/
   width: 40px;
   text-align: left;
   min-height: 350px;
@@ -71,13 +73,13 @@ body {
 }
 
 #mainbox a:link {
-  color: #eeeaaa; /*champagne*/
+  color: #f7efa2; /*champagne*/
   text-decoration: none;
   font-weight: bold;
 }
 
 #mainbox a:visited {
-  color: #eeeaaa; /*champagne*/
+  color: #f7efa2; /*champagne*/
   text-decoration: none;
   font-weight: bold;
 }
@@ -120,8 +122,9 @@ footer {
     padding: 1em;
     color: white;
     font-size: 7pt;
-    background-color: #2a0011; /*wine*/
+    /*background-color: #2a0011;*/ /*wine*/
     /*background-color: #0f1520;*/ /*navy*/
+    background-color: #5a0e12; /*darkburgundy*/
     clear: left;
     text-align: right;
 }
