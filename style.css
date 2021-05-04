@@ -64,7 +64,8 @@ body {
 
 #mainbox {
   /*background: #2a0011;*/ /*wine*/
-  background: #0f1520; /*navy*/
+  /*background: #0f1520;*/ /*navy*/
+  background-color: #5a0e12; /*darkburgundy*/
   min-height: 550px;
   text-align: left;
   margin-left: 180px;
