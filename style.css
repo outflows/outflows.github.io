@@ -91,6 +91,12 @@ body {
   font-size: 11pt;
 }
 
+#mainbox ol {
+  text-align: left;
+  color: white;
+  font-size: 11pt;
+}
+
 #mainbox p {
   color: white;
   font-size: 11pt;
