@@ -120,7 +120,7 @@ h2 {
 h3 {
   color: white;
   font-size: 14pt;
-  font-weight: bold
+  font-weight: bold;
   margin-bottom: 0.4cm;
 }
 
@@ -143,4 +143,8 @@ img.displayed {
 .profile-photo {
     float: right;
     margin: 0 0 20px 30px;  /* top right bottom left */
+}
+
+#mainbox li {
+  line-height: 1.5;
 }
